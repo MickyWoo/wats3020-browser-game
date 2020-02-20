@@ -1,5 +1,7 @@
 /* WATS 3020 Browser Game project */
 /* Build a tic tac toe game for two players. */
+/* basically get used to event, event handles, creating event and set up with event in the tic-tac toe game Also adjusting DOM 
+*/
 
 
 let game;
